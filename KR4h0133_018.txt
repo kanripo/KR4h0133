@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 古詩鏡
-#+DATE: 2020-03-31 11:42:32.409991
+#+DATE: 2020-03-31 11:42:33.348800
 #+PROPERTY: ID KR4h0133
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 18
 <pb:KR4h0133_WYG_018-1a>¶
 　　欽定四庫全書¶
@@ -428,7 +428,7 @@
 ¶
 　　(附詠蛺蝶云翠鬛藏髙栁紅蓮拂水衣詠螢火騰空類星隕拂樹若花生屏疑神火照簾似夜珠明俚而¶
 <pb:KR4h0133_WYG_018-16a>¶
-無味大扺神妙形穢離神擬形自當得&KR0126;故知人之情知物之情者方可言詩)¶
+無味大扺神妙形穢離神擬形自當得穢故知人之情知物之情者方可言詩)¶
 ¶
 　　(附闘雞玉冠初警敵芥羽忽猜儔)¶
 ¶

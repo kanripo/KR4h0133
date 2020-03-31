@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 古詩鏡
-#+DATE: 2020-03-31 11:42:32.610259
+#+DATE: 2020-03-31 11:42:33.571225
 #+PROPERTY: ID KR4h0133
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 43
 <pb:KR4h0133_WYG_043-1a>¶
 　　欽定四庫全書¶
@@ -344,7 +344,7 @@
 ¶
 　　銅龍曉闢問安迴金輅春遊博望開渭水晴光揺草樹¶
 終南佳氣入樓臺招賢已從商山老托乗還徴鄴下才¶
-臣在東周獨留滯忻逢睿𦸼日邊來¶
+臣在東周獨留滯忻逢睿藻日邊來¶
 ¶
 　　張汯(紀事作張紘)¶
 ¶

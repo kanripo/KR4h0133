@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 古詩鏡
-#+DATE: 2020-03-31 11:42:33.067309
+#+DATE: 2020-03-31 11:42:34.021314
 #+PROPERTY: ID KR4h0133
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 84
 <pb:KR4h0133_WYG_084-1a>¶
 　　欽定四庫全書¶
@@ -555,7 +555,7 @@
 ¶
 　　秋日江居閒詠¶
 ¶
-　　寄居江島邉閒詠見秋殘草白牛羊瘦風髙𤠔鳥寒檢¶
+　　寄居江島邉閒詠見秋殘草白牛羊瘦風髙猿鳥寒檢¶
 方醫故疾挑薺備中餐時復停書巻鋤沙種木蘭¶
 ¶
 <pb:KR4h0133_WYG_084-20b>¶

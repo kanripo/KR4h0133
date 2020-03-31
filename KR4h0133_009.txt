@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 古詩鏡
-#+DATE: 2020-03-31 11:42:32.317595
+#+DATE: 2020-03-31 11:42:33.262540
 #+PROPERTY: ID KR4h0133
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 9
 <pb:KR4h0133_WYG_009-1a>¶
 　　欽定四庫全書¶
@@ -62,7 +62,7 @@
 藻玉臺下垂影滄浪泉霑潤既已渥結根奥且堅四節¶
 逝不處繁華難乆鮮淑氣與時殞餘芳隨風捐天道有¶
 遷易人理無常全男懽智傾愚女愛衰避妍不惜微軀¶
-𨓆但懼蒼蠅前願君廣末光照妾薄暮年¶
+退但懼蒼蠅前願君廣末光照妾薄暮年¶
 ¶
 　　飲馬長城窟行¶
 ¶

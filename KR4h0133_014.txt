@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 古詩鏡
-#+DATE: 2020-03-31 11:42:32.363011
+#+DATE: 2020-03-31 11:42:33.310085
 #+PROPERTY: ID KR4h0133
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 14
 <pb:KR4h0133_WYG_014-1a>¶
 　　欽定四庫全書¶
@@ -136,7 +136,7 @@
 兵一旦至負劍逺行遊去鄉三十載復得還舊丘升髙¶
 臨四關表裏望皇州九衢平若水雙闕似雲浮扶宫羅¶
 將相夾道列王侯日中市朝滿車馬若川流擊鍾陳鼎¶
-食方駕自相求今我獨何為塪𡒄懐百憂¶
+食方駕自相求今我獨何為塪壈懐百憂¶
 ¶
 　　(搔首平生撫懐悲咤是諷伏櫪詩擊壺盡裂)¶
 ¶

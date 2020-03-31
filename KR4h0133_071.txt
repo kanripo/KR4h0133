@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 古詩鏡
-#+DATE: 2020-03-31 11:42:32.911639
+#+DATE: 2020-03-31 11:42:33.875120
 #+PROPERTY: ID KR4h0133
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 71
 <pb:KR4h0133_WYG_071-1a>¶
 　　欽定四庫全書¶
@@ -353,7 +353,7 @@
 ¶
 　　五言律詩¶
 ¶
-　　送盧評事&KR0276;州覲省¶
+　　送盧評事婺州覲省¶
 ¶
 　　知向東陽去晨裝見綵衣客愁青眼别家喜玉人歸漠¶
 <pb:KR4h0133_WYG_071-14a>¶

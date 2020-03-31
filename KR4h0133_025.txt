@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 古詩鏡
-#+DATE: 2020-03-31 11:42:32.466294
+#+DATE: 2020-03-31 11:42:33.409316
 #+PROPERTY: ID KR4h0133
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 25
 <pb:KR4h0133_WYG_025-1a>¶
 　　欽定四庫全書¶
@@ -27,7 +27,7 @@
 　　巫山高¶
 ¶
 　　巫山巫峽深峭壁聳春林風巖朝蕋落霧嶺晩猿吟雲¶
-來足&KR1002;枕雨過非感琴仙&KR0078;將夜月度影自浮沈¶
+來足&KR1002;枕雨過非感琴仙姬將夜月度影自浮沈¶
 ¶
 　　(雲來足&KR1002;枕雨過非感琴清快欲絶)¶
 ¶

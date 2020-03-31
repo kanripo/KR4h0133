@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 古詩鏡
-#+DATE: 2020-03-31 11:42:32.672073
+#+DATE: 2020-03-31 11:42:33.641243
 #+PROPERTY: ID KR4h0133
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 50
 <pb:KR4h0133_WYG_050-1a>¶
 　　欽定四庫全書¶
@@ -78,7 +78,7 @@
 　　(宛是情語)¶
 ¶
 <pb:KR4h0133_WYG_050-3b>¶
-　　常建(開元十五年進士大厯中為盱&KR0455;尉)¶
+　　常建(開元十五年進士大厯中為盱𣅿尉)¶
 ¶
 　　(常建好作清異然得意未深)¶
 ¶

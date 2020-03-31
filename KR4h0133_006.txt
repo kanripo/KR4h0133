@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 古詩鏡
-#+DATE: 2020-03-31 11:42:32.297249
+#+DATE: 2020-03-31 11:42:33.238902
 #+PROPERTY: ID KR4h0133
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 6
 <pb:KR4h0133_WYG_006-1a>¶
 　　欽定四庫全書¶
@@ -65,7 +65,7 @@
 ¶
 　　翩翩者鴻率彼江濵君子于征爰聘西隣臨此洪渚伊¶
 思梁岷爾行孔邈如何勿勤君子敬始慎爾所主謀言¶
-必賢錯説申輔延陵有作僑&KR0388;是與先民遺跡來世之¶
+必賢錯説申輔延陵有作僑肸是與先民遺跡來世之¶
 <pb:KR4h0133_WYG_006-3b>¶
 矩既慎爾主亦廸知㡬探情以華覩著知微視明聴聰¶
 靡事不惟董褐荷名胡寧不師衆不可蓋無尚我言梧¶

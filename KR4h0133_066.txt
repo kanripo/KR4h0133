@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 古詩鏡
-#+DATE: 2020-03-31 11:42:32.842922
+#+DATE: 2020-03-31 11:42:33.821981
 #+PROPERTY: ID KR4h0133
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 66
 <pb:KR4h0133_WYG_066-1a>¶
 　　欽定四庫全書¶
@@ -366,7 +366,7 @@
 ¶
 　　自蒲塘驛迴駕經歴山水¶
 ¶
-　　館宿風雨滯始晴行葢轉潯陽山水多草木俱紛&KR0283;﨑¶
+　　館宿風雨滯始晴行葢轉潯陽山水多草木俱紛衍﨑¶
 嶇縁碧澗蒼翠踐苔蘚髙樹夾潺湲崩石横隂巘野杏¶
 依寒拆餘雲冒嵐淺性愜形豈勞境殊路遺緬憶昔終¶
 南下佳逰亦屢展時禽下流暮紛思何由遣¶

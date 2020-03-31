@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 古詩鏡
-#+DATE: 2020-03-31 11:42:32.898521
+#+DATE: 2020-03-31 11:42:33.864560
 #+PROPERTY: ID KR4h0133
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 70
 <pb:KR4h0133_WYG_070-1a>¶
 　　欽定四庫全書¶
@@ -495,7 +495,7 @@
 　　(歸期雁暫留語何輕嫩)¶
 ¶
 　　(附府試古鏡　舊是秦時鏡今藏古匣中龍盤初掛月鳯舞欲生風石黛曾留殿朱光適在宫應祥知道¶
-泰鑑物覺神通肝膽誠難隠妍&KR0896;信易窮幸居君子室長願免塵䝉)¶
+泰鑑物覺神通肝膽誠難隠妍媸信易窮幸居君子室長願免塵䝉)¶
 ¶
 　　五言絶句¶
 ¶

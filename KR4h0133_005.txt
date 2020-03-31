@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 古詩鏡
-#+DATE: 2020-03-31 11:42:32.288251
+#+DATE: 2020-03-31 11:42:33.229578
 #+PROPERTY: ID KR4h0133
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 5
 <pb:KR4h0133_WYG_005-1a>¶
 　　欽定四庫全書¶
@@ -350,7 +350,7 @@
 　　心悲動我神棄置莫復陳丈夫志四海萬里猶比隣恩¶
 愛茍不虧在逺分日親何必同衾幬然後展殷勤憂思¶
 <pb:KR4h0133_WYG_005-15b>¶
-成疾&KR1028;無乃兒女仁倉卒骨肉情能不懐苦辛¶
+成疾疹無乃兒女仁倉卒骨肉情能不懐苦辛¶
 ¶
 　　苦辛何慮思天命信可疑虚無求列仙松子乆吾欺變¶
 故在斯須百年誰能持離别永無㑹執手將何時王其¶

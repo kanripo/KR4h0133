@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 古詩鏡
-#+DATE: 2020-03-31 11:42:32.349845
+#+DATE: 2020-03-31 11:42:33.299752
 #+PROPERTY: ID KR4h0133
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 13
 <pb:KR4h0133_WYG_013-1a>¶
 　　欽定四庫全書¶
@@ -404,7 +404,7 @@
 <pb:KR4h0133_WYG_013-17b>¶
 月聽哀狖浥露馥芳蓀春晩緑野秀巖髙白雲屯千念¶
 集日夜萬感盈朝昏攀崖照石鏡牽葉入松門三江事¶
-多往九派理空存靈物𠫤珍恠異人秘精魂金膏滅明¶
+多往九派理空存靈物吝珍恠異人秘精魂金膏滅明¶
 光水碧輟流温徒作千里曲絃絶念彌敦¶
 ¶
 　　入華子岡是麻源第三谷¶

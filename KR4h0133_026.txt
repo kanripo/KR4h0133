@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 古詩鏡
-#+DATE: 2020-03-31 11:42:32.474588
+#+DATE: 2020-03-31 11:42:33.418380
 #+PROPERTY: ID KR4h0133
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 26
 <pb:KR4h0133_WYG_026-1a>¶
 　　欽定四庫全書¶
@@ -253,7 +253,7 @@
 ¶
 　　賦得佳期竟不歸¶
 ¶
-　　(&KR0067;肩吾有所思曰佳期竟不歸春物坐芳菲)¶
+　　(庾肩吾有所思曰佳期竟不歸春物坐芳菲)¶
 ¶
 　　良人萬里向河源娼婦三秋思栁園路逺寄詩空織錦¶
 <pb:KR4h0133_WYG_026-10a>¶

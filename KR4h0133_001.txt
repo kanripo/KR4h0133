@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 古詩鏡
-#+DATE: 2020-03-31 11:42:32.255407
+#+DATE: 2020-03-31 11:42:33.196761
 #+PROPERTY: ID KR4h0133
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 1
 <pb:KR4h0133_WYG_001-1a>¶
 　　欽定四庫全書¶
@@ -163,7 +163,7 @@
 ¶
 　　滿歌行¶
 ¶
-　　為樂未㡬時遭時嶮𡾟逢此百罹伶丁荼毒愁苦難為¶
+　　為樂未㡬時遭時嶮巇逢此百罹伶丁荼毒愁苦難為¶
 遥望極辰天曉月移憂來填心誰當我知戚戚多思慮¶
 耿耿殊不寧禍福無形惟念古人遜位躬耕遂我所願¶
 以兹自寧自鄙棲棲守此末榮暮秋烈風昔蹈滄海心¶

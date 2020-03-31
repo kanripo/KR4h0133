@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 古詩鏡
-#+DATE: 2020-03-31 11:42:32.984489
+#+DATE: 2020-03-31 11:42:33.940920
 #+PROPERTY: ID KR4h0133
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 77
 <pb:KR4h0133_WYG_077-1a>¶
 　　欽定四庫全書¶
@@ -150,7 +150,7 @@
 ¶
 　　節婦吟(寄東平李司空)¶
 ¶
-　　君知妾有夫贈妾雙明珠感君纒綿意繫在紅羅&KR0237;妾¶
+　　君知妾有夫贈妾雙明珠感君纒綿意繫在紅羅𥜗妾¶
 <pb:KR4h0133_WYG_077-6b>¶
 家髙樓連苑起良人執㦸明光裏如君用心如日月事¶
 夫誓擬同生死還君明珠雙淚垂恨不相逄未嫁時¶

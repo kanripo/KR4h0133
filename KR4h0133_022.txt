@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 古詩鏡
-#+DATE: 2020-03-31 11:42:32.440621
+#+DATE: 2020-03-31 11:42:33.381442
 #+PROPERTY: ID KR4h0133
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 22
 <pb:KR4h0133_WYG_022-1a>¶
 　　欽定四庫全書¶
@@ -168,7 +168,7 @@
 　　酬范記室雲¶
 ¶
 　　林宻户稍隂草滋堦欲暗風光蕋上輕日色花中亂相¶
-思不獨懽佇立&KR0432;為歎清談莫共理繁文徒可玩髙唱¶
+思不獨懽佇立空為歎清談莫共理繁文徒可玩髙唱¶
 <pb:KR4h0133_WYG_022-7a>¶
 子自輕繼音予可憚¶
 ¶

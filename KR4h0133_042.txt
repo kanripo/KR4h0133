@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 古詩鏡
-#+DATE: 2020-03-31 11:42:32.604647
+#+DATE: 2020-03-31 11:42:33.564632
 #+PROPERTY: ID KR4h0133
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 42
 <pb:KR4h0133_WYG_042-1a>¶
 　　欽定四庫全書¶
@@ -106,7 +106,7 @@
 　　鳥籀遺新閣龍旂訪古臺造書臣頡徃觀跡帝羲來睿¶
 <pb:KR4h0133_WYG_042-4b>¶
 覽山川匝宸心宇宙該梵音隨駐輦天歩接乗杯舊苑¶
-經寒露殘池問刼灰&KR0262;花將捧日俱喜聖慈開¶
+經寒露殘池問刼灰𣪚花將捧日俱喜聖慈開¶
 ¶
 　　(意象宻匝)¶
 ¶

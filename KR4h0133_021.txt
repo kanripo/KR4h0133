@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 古詩鏡
-#+DATE: 2020-03-31 11:42:32.433735
+#+DATE: 2020-03-31 11:42:33.373541
 #+PROPERTY: ID KR4h0133
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 21
 <pb:KR4h0133_WYG_021-1a>¶
 　　欽定四庫全書¶
@@ -170,7 +170,7 @@
 ¶
 　　公子獨憂生丘壠擅餘名採樵枯樹盡犁田荒隧平寧¶
 追宴平樂詎想謁承明旦余來錫命兼言事結成飄颻¶
-河朔遠颭飈&KR0275;風鳴鴈與雲俱陣沙將蓬共驚枯桑落古¶
+河朔遠颭飈颶風鳴鴈與雲俱陣沙將蓬共驚枯桑落古¶
 社寒鳥歸孤城隴水哀葭曲漁陽慘鼔聲離家來遠客¶
 安得不傷情¶
 ¶

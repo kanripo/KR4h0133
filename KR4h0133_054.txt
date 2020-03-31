@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 古詩鏡
-#+DATE: 2020-03-31 11:42:32.711843
+#+DATE: 2020-03-31 11:42:33.683948
 #+PROPERTY: ID KR4h0133
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 54
 <pb:KR4h0133_WYG_054-1a>¶
 　　欽定四庫全書¶
@@ -105,7 +105,7 @@
 ¶
 　　(老傑　七言樂府意象作用得自西漢樂府居多淋漓痛快往往追神入妙　烏鳶啄人腸銜飛上¶
 <pb:KR4h0133_WYG_054-5a>¶
-挂枯樹枝於頭顱成塜膏血成川中略一二語指㸃得出)¶
+挂枯樹枝於頭顱成塚膏血成川中略一二語指㸃得出)¶
 ¶
 　　行行且遊獵篇¶
 ¶
